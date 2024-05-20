@@ -1,18 +1,1 @@
-## Getting Started
-
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
-
-## Folder Structure
-
-The workspace contains two folders by default, where:
-
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
-
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
-
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
-
-## Dependency Management
-
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+[![](https://mermaid.ink/img/pako:eNp9UsFuwjAM_ZUqJybgByqEhLYLhyE0pp16MYlbrKVx5STVBuPfF6BsdEXrJc3L0_Pzsw9Ks0GVK23B-yeCSqAu3PmWvWAjbGJgeY6eNNjsULgsfbMZuYBSgsb5_AKNA2uQ0UPWMpkOaiD6v5hHi5rYQac52gQhV2X1-dajQgtuoCkYhDUa_MWPhbs6XjQgaHf8mqqU7Ehz53hsqUpSXTEXaxTu6Rr0F0rfQkB3W6qzoId9USpGII8sgsRvvL9nbwUtVmBYlqf4HIZroGP8oC3JGipyP5FEsX0zhi7JrbiFxRb6BkrUO5ABDCGCpT1ctXuuaL1jh9l0-jW_M-w8W9aNxRpd8H3uMOZ_yMOmb7lqotIsaiCTlvCcRqHCLr0VKk-_BuS9UMlu4kEyt_l0WuVBIk5UbEyaT7ezKi_B-oSioVMP3VafjuM3bXn-yg?type=png)](https://mermaid.live/edit#pako:eNp9UsFuwjAM_ZUqJybgByqEhLYLhyE0pp16MYlbrKVx5STVBuPfF6BsdEXrJc3L0_Pzsw9Ks0GVK23B-yeCSqAu3PmWvWAjbGJgeY6eNNjsULgsfbMZuYBSgsb5_AKNA2uQ0UPWMpkOaiD6v5hHi5rYQac52gQhV2X1-dajQgtuoCkYhDUa_MWPhbs6XjQgaHf8mqqU7Ehz53hsqUpSXTEXaxTu6Rr0F0rfQkB3W6qzoId9USpGII8sgsRvvL9nbwUtVmBYlqf4HIZroGP8oC3JGipyP5FEsX0zhi7JrbiFxRb6BkrUO5ABDCGCpT1ctXuuaL1jh9l0-jW_M-w8W9aNxRpd8H3uMOZ_yMOmb7lqotIsaiCTlvCcRqHCLr0VKk-_BuS9UMlu4kEyt_l0WuVBIk5UbEyaT7ezKi_B-oSioVMP3VafjuM3bXn-yg)
